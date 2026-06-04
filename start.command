@@ -28,7 +28,7 @@ sleep 2
 
 # Open default web browser to the application page
 echo "[*] Ouverture du navigateur..."
-open "http://localhost:8000/"
+open "http://127.0.0.1:8000/"
 
 echo ""
 echo "=========================================================="

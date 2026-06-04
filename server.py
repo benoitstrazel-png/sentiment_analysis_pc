@@ -220,7 +220,7 @@ class ThreadingHTTPServer(ThreadingMixIn, http.server.HTTPServer):
 def run(port=8000):
     server_address = ('', port)
     httpd = ThreadingHTTPServer(server_address, SentilyticsRequestHandler)
-    print(f"\n🚀 Serveur local Sentilytics (Multi-threaded) en cours d'exécution sur http://localhost:{port}/")
+    print(f"\n🚀 Serveur local Sentilytics (Multi-threaded) en cours d'exécution sur http://127.0.0.1:{port}/")
     print("Double-cliquez sur 'start.command' pour ouvrir l'application automatiquement.")
     try:
         httpd.serve_forever()

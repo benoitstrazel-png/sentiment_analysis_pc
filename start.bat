@@ -24,7 +24,7 @@ if not exist scraper\venv\Scripts\python.exe (
 
 :: Lancer l'ouverture du navigateur avec 2 secondes de décalage
 echo [*] Préparation de l'ouverture du navigateur...
-start "" cmd /c "timeout /t 2 /nobreak >nul && start http://localhost:8000/"
+start "" cmd /c "timeout /t 2 /nobreak >nul && start http://127.0.0.1:8000/"
 
 :: Lancer le serveur au premier plan
 echo [*] Démarrage du serveur applicatif local...
