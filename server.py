@@ -213,15 +213,41 @@ class SentilyticsRequestHandler(http.server.SimpleHTTPRequestHandler):
         return super().do_GET()
 
 from socketserver import ThreadingMixIn
+import socket
+import webbrowser
+import threading
+import time
 
 class ThreadingHTTPServer(ThreadingMixIn, http.server.HTTPServer):
     daemon_threads = True
 
+def get_local_ip():
+    s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+    try:
+        # Connect to a dummy address (doesn't send any traffic) to determine primary interface IP
+        s.connect(('10.255.255.255', 1))
+        IP = s.getsockname()[0]
+    except Exception:
+        IP = '127.0.0.1'
+    finally:
+        s.close()
+    return IP
+
+def open_browser(url):
+    time.sleep(1.5)
+    print(f"[*] Ouverture automatique du navigateur sur {url}")
+    webbrowser.open(url)
+
 def run(port=8000):
+    local_ip = get_local_ip()
     server_address = ('', port)
     httpd = ThreadingHTTPServer(server_address, SentilyticsRequestHandler)
-    print(f"\n🚀 Serveur local Sentilytics (Multi-threaded) en cours d'exécution sur http://127.0.0.1:{port}/")
-    print("Double-cliquez sur 'start.command' pour ouvrir l'application automatiquement.")
+    url = f"http://{local_ip}:{port}/"
+    print(f"\n🚀 Serveur local Sentilytics (Multi-threaded) en cours d'exécution sur {url}")
+    
+    # Start thread to open browser after server binds
+    threading.Thread(target=open_browser, args=(url,), daemon=True).start()
+    
     try:
         httpd.serve_forever()
     except KeyboardInterrupt:

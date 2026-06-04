@@ -27,8 +27,9 @@ Si vous êtes sur un ordinateur sous Windows, deux scripts automatisés vous per
 2. **Démarrage de l'application :**
    Double-cliquez sur le fichier **`start.bat`**. Ce script va :
    - Libérer le port `8000` s'il est déjà utilisé.
-   - Lancer le serveur local d'analyse de données en arrière-plan.
-   - Ouvrir automatiquement votre navigateur par défaut à l'adresse [http://127.0.0.1:8000](http://127.0.0.1:8000).
+   - Démarrer le serveur local d'analyse de données.
+   - Détecter automatiquement l'adresse IP locale (LAN IP) de votre machine (ex: `http://192.168.X.X:8000/`) pour contourner les restrictions DNS d'entreprise.
+   - Ouvrir automatiquement votre navigateur par défaut sur cette adresse.
 
 ---
 

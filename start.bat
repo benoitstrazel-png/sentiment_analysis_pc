@@ -22,11 +22,7 @@ if not exist scraper\venv\Scripts\python.exe (
     exit /b 1
 )
 
-:: Lancer l'ouverture du navigateur avec 2 secondes de décalage
-echo [*] Préparation de l'ouverture du navigateur...
-start "" cmd /c "timeout /t 2 /nobreak >nul && start http://127.0.0.1:8000/"
-
-:: Lancer le serveur au premier plan
+:: Lancer le serveur au premier plan (qui gère lui-même l'ouverture du navigateur via l'adresse IP locale)
 echo [*] Démarrage du serveur applicatif local...
 echo [+] Pour arrêter le serveur, faites Ctrl+C ou fermez cette fenêtre.
 echo.

@@ -18,26 +18,8 @@ pkill -f "server.py" 2>/dev/null
 
 sleep 1
 
-# Start custom server using the virtual environment python interpreter in background
+# Start custom server using the virtual environment python interpreter
 echo "[*] Démarrage du serveur applicatif local..."
-scraper/venv/bin/python server.py > /dev/null 2>&1 &
-SERVER_PID=$!
-
-# Wait 2 seconds for server to start
-sleep 2
-
-# Open default web browser to the application page
-echo "[*] Ouverture du navigateur..."
-open "http://127.0.0.1:8000/"
-
+echo "[+] Pour arrêter le serveur, faites Ctrl+C ou fermez cette fenêtre."
 echo ""
-echo "=========================================================="
-echo "✅ SENTILYTICS EST LANCÉ ET PRÊT !"
-echo "=========================================================="
-echo "[+] Le serveur tourne en arrière-plan (PID: $SERVER_PID)."
-echo "[+] Pour arrêter le serveur, fermez simplement cette fenêtre."
-echo "=========================================================="
-echo ""
-
-# Wait for the background process to finish (which keeps the terminal window open/active)
-wait $SERVER_PID
+scraper/venv/bin/python server.py
