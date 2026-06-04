@@ -1,0 +1,1389 @@
+{
+  "response": {
+    "Limit": 5,
+    "Offset": 0,
+    "TotalResults": 16260,
+    "Locale": "fr_FR",
+    "Results": [
+      {
+        "Id": "1220478484",
+        "CID": "c4792d8a-6875-5137-9d26-392e7f50ad78",
+        "SourceClient": "samsung-it_it",
+        "LastModeratedTime": "2026-05-25T12:32:59.000+00:00",
+        "LastModificationTime": "2026-05-25T12:32:59.000+00:00",
+        "ProductId": "SM-S948BZVGEUB",
+        "OriginalProductName": "Galaxy S26 Ultra(SM-S948BZVGEUE)",
+        "AuthorId": "zhbq4rd7ilb9gxfuz8if8nvxuj",
+        "ContentLocale": "it_IT",
+        "IsFeatured": false,
+        "TotalInappropriateFeedbackCount": 0,
+        "IsSyndicated": true,
+        "SyndicationSource": {
+          "ClientId": null,
+          "LogoImageUrl": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/09cdac89-8ec0-47d5-a0c7-fbc80b69ef27",
+          "ContentLink": null,
+          "Name": "Samsung Italia"
+        },
+        "TotalClientResponseCount": 0,
+        "TotalCommentCount": 0,
+        "Rating": 4,
+        "SecondaryRatingsOrder": [
+          "Performance",
+          "Features",
+          "Design",
+          "Value",
+          "EaseOfSwitchingToSamsung"
+        ],
+        "IsRatingsOnly": false,
+        "IsRecommended": true,
+        "ModerationStatus": "APPROVED",
+        "SubmissionTime": "2026-05-25T12:01:29.000+00:00",
+        "ReviewText": "È il primo telefono che reputo interessante dopo il Samsung S22 Ultra. Per migliorare ancora di più i nuovi telefoni si dovrebbero cambiare la tipologia delle batterie, e anche la fotocamera, e rimettere il display edge solo davanti.",
+        "Title": "Miglioramenti da fare",
+        "UserNickname": "Strongersoul",
+        "SecondaryRatings": {
+          "Value": {
+            "Value": 4,
+            "Id": "Value",
+            "ValueRange": 5,
+            "MaxLabel": null,
+            "MinLabel": null,
+            "ValueLabel": null,
+            "DisplayType": "NORMAL",
+            "Label": null
+          },
+          "Performance": {
+            "Value": 4,
+            "Id": "Performance",
+            "ValueRange": 5,
+            "MaxLabel": null,
+            "MinLabel": null,
+            "ValueLabel": null,
+            "DisplayType": "NORMAL",
+            "Label": null
+          },
+          "Design": {
+            "Value": 4,
+            "Id": "Design",
+            "ValueRange": 5,
+            "MaxLabel": null,
+            "MinLabel": null,
+            "ValueLabel": null,
+            "DisplayType": "NORMAL",
+            "Label": null
+          },
+          "Features": {
+            "Value": 5,
+            "Id": "Features",
+            "ValueRange": 5,
+            "MaxLabel": null,
+            "MinLabel": null,
+            "ValueLabel": null,
+            "DisplayType": "NORMAL",
+            "Label": null
+          },
+          "EaseOfSwitchingToSamsung": {
+            "Value": 5,
+            "Id": "EaseOfSwitchingToSamsung",
+            "ValueRange": 5,
+            "MaxLabel": null,
+            "MinLabel": null,
+            "ValueLabel": null,
+            "DisplayType": "NORMAL",
+            "Label": null
+          }
+        },
+        "BadgesOrder": [],
+        "ContextDataValuesOrder": [],
+        "CommentIds": [],
+        "TotalPositiveFeedbackCount": 0,
+        "SubmissionId": null,
+        "Videos": [],
+        "Pros": null,
+        "InappropriateFeedbackList": [],
+        "ContextDataValues": {},
+        "UserLocation": null,
+        "ClientResponses": [],
+        "TotalNegativeFeedbackCount": 0,
+        "Photos": [],
+        "RatingRange": 5,
+        "Badges": {},
+        "ProductRecommendationIds": [],
+        "Helpfulness": null,
+        "AdditionalFields": {},
+        "CampaignId": null,
+        "TotalFeedbackCount": 0,
+        "AdditionalFieldsOrder": [],
+        "TagDimensionsOrder": [],
+        "TagDimensions": {},
+        "Cons": null
+      },
+      {
+        "Id": "250917517",
+        "CID": "1466e396-c1c3-55ee-8d2f-2e92edd9962b",
+        "SourceClient": "samsung-de_de",
+        "LastModeratedTime": "2026-05-25T12:15:08.000+00:00",
+        "LastModificationTime": "2026-05-25T12:15:08.000+00:00",
+        "ProductId": "SM-S948BZVGEUB",
+        "OriginalProductName": "S26 Ultra",
+        "ContextDataValuesOrder": [
+          "Gender"
+        ],
+        "UserLocation": "Bad Nreuznach",
+        "AuthorId": "ziiwsphti16ewzn0lajs7zk5nq",
+        "ContentLocale": "de_DE",
+        "IsFeatured": false,
+        "TotalInappropriateFeedbackCount": 0,
+        "IsSyndicated": true,
+        "SyndicationSource": {
+          "ClientId": null,
+          "LogoImageUrl": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/e6aeb0e2-b9ae-43fd-8521-5b91c0dabc63",
+          "ContentLink": null,
+          "Name": "Samsung Germany"
+        },
+        "TotalClientResponseCount": 0,
+        "TotalCommentCount": 0,
+        "Rating": 5,
+        "SecondaryRatingsOrder": [
+          "Quality"
+        ],
+        "IsRatingsOnly": false,
+        "IsRecommended": true,
+        "ModerationStatus": "APPROVED",
+        "SubmissionTime": "2026-05-25T11:48:56.000+00:00",
+        "ReviewText": "Absolut begeistert! Die eingebaute Kamera ist einfach Spitze!!",
+        "Title": "Tolle Kamera",
+        "UserNickname": "Walter L",
+        "ContextDataValues": {
+          "Gender": {
+            "Value": "Male",
+            "Id": "Gender"
+          }
+        },
+        "SecondaryRatings": {
+          "Quality": {
+            "Value": 5,
+            "Id": "Quality",
+            "ValueRange": 5,
+            "MaxLabel": null,
+            "MinLabel": null,
+            "ValueLabel": null,
+            "DisplayType": "NORMAL",
+            "Label": null
+          }
+        },
+        "BadgesOrder": [],
+        "CommentIds": [],
+        "TotalPositiveFeedbackCount": 0,
+        "SubmissionId": null,
+        "Videos": [],
+        "Pros": null,
+        "InappropriateFeedbackList": [],
+        "ClientResponses": [],
+        "TotalNegativeFeedbackCount": 0,
+        "Photos": [],
+        "RatingRange": 5,
+        "Badges": {},
+        "ProductRecommendationIds": [],
+        "Helpfulness": null,
+        "AdditionalFields": {},
+        "CampaignId": null,
+        "TotalFeedbackCount": 0,
+        "AdditionalFieldsOrder": [],
+        "TagDimensionsOrder": [],
+        "TagDimensions": {},
+        "Cons": null
+      },
+      {
+        "Id": "1220477412",
+        "CID": "8cdee164-ef88-5d04-9c36-635ad38a5d78",
+        "SourceClient": "samsung-it_it",
+        "LastModeratedTime": "2026-05-25T12:17:33.000+00:00",
+        "LastModificationTime": "2026-05-25T12:17:33.000+00:00",
+        "ProductId": "SM-S948BZVGEUB",
+        "OriginalProductName": "Galaxy S26 Ultra(SM-S948BZKDEUE)",
+        "AuthorId": "z6j0g36xocgbk1zbkacptcnhtp",
+        "ContentLocale": "it_IT",
+        "IsFeatured": false,
+        "TotalInappropriateFeedbackCount": 0,
+        "IsSyndicated": true,
+        "SyndicationSource": {
+          "ClientId": null,
+          "LogoImageUrl": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/09cdac89-8ec0-47d5-a0c7-fbc80b69ef27",
+          "ContentLink": null,
+          "Name": "Samsung Italia"
+        },
+        "TotalClientResponseCount": 0,
+        "TotalCommentCount": 0,
+        "Rating": 5,
+        "SecondaryRatingsOrder": [
+          "Performance",
+          "Features",
+          "Design",
+          "Value",
+          "EaseOfSwitchingToSamsung"
+        ],
+        "IsRatingsOnly": false,
+        "IsRecommended": true,
+        "ModerationStatus": "APPROVED",
+        "SubmissionTime": "2026-05-25T11:47:14.000+00:00",
+        "ReviewText": "Sono passata da S23 al S26 ultra e il salto si vede. Schermo luminoso anche al sole,fotocamera notturna impressionante,e la batteria mi dura tranquillamente una giornata intensa.per ora soddisfattissima dell'aquisto.",
+        "Title": "Per ora soddisfattissima dell'aquisto.",
+        "UserNickname": "Ele70",
+        "SecondaryRatings": {
+          "Value": {
+            "Value": 5,
+            "Id": "Value",
+            "ValueRange": 5,
+            "MaxLabel": null,
+            "MinLabel": null,
+            "ValueLabel": null,
+            "DisplayType": "NORMAL",
+            "Label": null
+          },
+          "Performance": {
+            "Value": 5,
+            "Id": "Performance",
+            "ValueRange": 5,
+            "MaxLabel": null,
+            "MinLabel": null,
+            "ValueLabel": null,
+            "DisplayType": "NORMAL",
+            "Label": null
+          },
+          "Design": {
+            "Value": 5,
+            "Id": "Design",
+            "ValueRange": 5,
+            "MaxLabel": null,
+            "MinLabel": null,
+            "ValueLabel": null,
+            "DisplayType": "NORMAL",
+            "Label": null
+          },
+          "Features": {
+            "Value": 5,
+            "Id": "Features",
+            "ValueRange": 5,
+            "MaxLabel": null,
+            "MinLabel": null,
+            "ValueLabel": null,
+            "DisplayType": "NORMAL",
+            "Label": null
+          },
+          "EaseOfSwitchingToSamsung": {
+            "Value": 5,
+            "Id": "EaseOfSwitchingToSamsung",
+            "ValueRange": 5,
+            "MaxLabel": null,
+            "MinLabel": null,
+            "ValueLabel": null,
+            "DisplayType": "NORMAL",
+            "Label": null
+          }
+        },
+        "BadgesOrder": [],
+        "ContextDataValuesOrder": [],
+        "CommentIds": [],
+        "TotalPositiveFeedbackCount": 0,
+        "SubmissionId": null,
+        "Videos": [],
+        "Pros": null,
+        "InappropriateFeedbackList": [],
+        "ContextDataValues": {},
+        "UserLocation": null,
+        "ClientResponses": [],
+        "TotalNegativeFeedbackCount": 0,
+        "Photos": [],
+        "RatingRange": 5,
+        "Badges": {},
+        "ProductRecommendationIds": [],
+        "Helpfulness": null,
+        "AdditionalFields": {},
+        "CampaignId": null,
+        "TotalFeedbackCount": 0,
+        "AdditionalFieldsOrder": [],
+        "TagDimensionsOrder": [],
+        "TagDimensions": {},
+        "Cons": null
+      },
+      {
+        "Id": "1220476782",
+        "CID": "efd5e302-1d3a-5eeb-abc7-6f8a694d8ea2",
+        "SourceClient": "samsung-it_it",
+        "LastModeratedTime": "2026-05-25T12:02:57.000+00:00",
+        "LastModificationTime": "2026-05-25T12:02:57.000+00:00",
+        "ProductId": "SM-S948BZVGEUB",
+        "OriginalProductName": "Galaxy S26 Ultra(SM-S948BLBDEUE)",
+        "AuthorId": "ze9i9p7ipiy6aq6hsjxf9kyend",
+        "ContentLocale": "it_IT",
+        "IsFeatured": false,
+        "TotalInappropriateFeedbackCount": 0,
+        "IsSyndicated": true,
+        "SyndicationSource": {
+          "ClientId": null,
+          "LogoImageUrl": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/09cdac89-8ec0-47d5-a0c7-fbc80b69ef27",
+          "ContentLink": null,
+          "Name": "Samsung Italia"
+        },
+        "TotalClientResponseCount": 0,
+        "TotalCommentCount": 0,
+        "Rating": 5,
+        "SecondaryRatingsOrder": [
+          "Performance",
+          "Features",
+          "Design",
+          "Value",
+          "EaseOfSwitchingToSamsung"
+        ],
+        "IsRatingsOnly": false,
+        "IsRecommended": true,
+        "ModerationStatus": "APPROVED",
+        "SubmissionTime": "2026-05-25T11:33:25.000+00:00",
+        "ReviewText": "È da tempo che ho la serie S top della gamma Samsung, che dire ha tutto quello che un cellulare deve avere.",
+        "Title": "Ottimo",
+        "UserNickname": "Nic63",
+        "SecondaryRatings": {
+          "Value": {
+            "Value": 5,
+            "Id": "Value",
+            "ValueRange": 5,
+            "MaxLabel": null,
+            "MinLabel": null,
+            "ValueLabel": null,
+            "DisplayType": "NORMAL",
+            "Label": null
+          },
+          "Performance": {
+            "Value": 5,
+            "Id": "Performance",
+            "ValueRange": 5,
+            "MaxLabel": null,
+            "MinLabel": null,
+            "ValueLabel": null,
+            "DisplayType": "NORMAL",
+            "Label": null
+          },
+          "Design": {
+            "Value": 5,
+            "Id": "Design",
+            "ValueRange": 5,
+            "MaxLabel": null,
+            "MinLabel": null,
+            "ValueLabel": null,
+            "DisplayType": "NORMAL",
+            "Label": null
+          },
+          "Features": {
+            "Value": 5,
+            "Id": "Features",
+            "ValueRange": 5,
+            "MaxLabel": null,
+            "MinLabel": null,
+            "ValueLabel": null,
+            "DisplayType": "NORMAL",
+            "Label": null
+          },
+          "EaseOfSwitchingToSamsung": {
+            "Value": 5,
+            "Id": "EaseOfSwitchingToSamsung",
+            "ValueRange": 5,
+            "MaxLabel": null,
+            "MinLabel": null,
+            "ValueLabel": null,
+            "DisplayType": "NORMAL",
+            "Label": null
+          }
+        },
+        "BadgesOrder": [],
+        "ContextDataValuesOrder": [],
+        "CommentIds": [],
+        "TotalPositiveFeedbackCount": 0,
+        "SubmissionId": null,
+        "Videos": [],
+        "Pros": null,
+        "InappropriateFeedbackList": [],
+        "ContextDataValues": {},
+        "UserLocation": null,
+        "ClientResponses": [],
+        "TotalNegativeFeedbackCount": 0,
+        "Photos": [],
+        "RatingRange": 5,
+        "Badges": {},
+        "ProductRecommendationIds": [],
+        "Helpfulness": null,
+        "AdditionalFields": {},
+        "CampaignId": null,
+        "TotalFeedbackCount": 0,
+        "AdditionalFieldsOrder": [],
+        "TagDimensionsOrder": [],
+        "TagDimensions": {},
+        "Cons": null
+      },
+      {
+        "Id": "250917220",
+        "CID": "12c80522-139a-589d-90df-a9b4df9d7a63",
+        "SourceClient": "samsung-da_dk",
+        "LastModeratedTime": "2026-05-25T12:00:10.000+00:00",
+        "LastModificationTime": "2026-05-25T12:00:10.000+00:00",
+        "ProductId": "SM-S948BZVGEUB",
+        "OriginalProductName": "Galaxy S26 Ultra(SM-S948BZVGEUB)",
+        "AuthorId": "55cbcb7ae2dbf98df0e4d2d4d205412da67689c1641b87611387442ee1ed638f",
+        "ContentLocale": "da_DK",
+        "IsFeatured": false,
+        "TotalInappropriateFeedbackCount": 0,
+        "IsSyndicated": true,
+        "SyndicationSource": {
+          "ClientId": null,
+          "LogoImageUrl": "https://photos-eu.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/a929847f-12b4-443c-ad56-492a8d416fd5",
+          "ContentLink": null,
+          "Name": "Samsung Denmark"
+        },
+        "TotalClientResponseCount": 0,
+        "TotalCommentCount": 0,
+        "Rating": 5,
+        "SecondaryRatingsOrder": [
+          "Value"
+        ],
+        "IsRatingsOnly": false,
+        "ModerationStatus": "APPROVED",
+        "SubmissionTime": "2026-05-25T11:26:36.000+00:00",
+        "ReviewText": "Det er en super god telefon,somjeg kun kan anbefale alle at købe.",
+        "Title": "Jeg er super glad foe min nye samsung S26 Ultra .",
+        "UserNickname": "Gülay Nazli",
+        "SecondaryRatings": {
+          "Value": {
+            "Value": 5,
+            "Id": "Value",
+            "ValueRange": 5,
+            "MaxLabel": null,
+            "MinLabel": null,
+            "ValueLabel": null,
+            "DisplayType": "NORMAL",
+            "Label": null
+          }
+        },
+        "BadgesOrder": [],
+        "ContextDataValuesOrder": [],
+        "IsRecommended": null,
+        "CommentIds": [],
+        "TotalPositiveFeedbackCount": 0,
+        "SubmissionId": null,
+        "Videos": [],
+        "Pros": null,
+        "InappropriateFeedbackList": [],
+        "ContextDataValues": {},
+        "UserLocation": null,
+        "ClientResponses": [],
+        "TotalNegativeFeedbackCount": 0,
+        "Photos": [],
+        "RatingRange": 5,
+        "Badges": {},
+        "ProductRecommendationIds": [],
+        "Helpfulness": null,
+        "AdditionalFields": {},
+        "CampaignId": null,
+        "TotalFeedbackCount": 0,
+        "AdditionalFieldsOrder": [],
+        "TagDimensionsOrder": [],
+        "TagDimensions": {},
+        "Cons": null
+      }
+    ],
+    "Includes": {
+      "Products": {
+        "SM-S948BZVGEUB": {
+          "FamilyIds": [
+            "SM-S948B_DS"
+          ],
+          "EANs": [
+            "8806097821250",
+            "8806097827146",
+            "8806097826958",
+            "8806097827283",
+            "8806097827047",
+            "8806097826736",
+            "8806097826996",
+            "8806097827191",
+            "8806097826897",
+            "8806097826798",
+            "8806097827092",
+            "8806097826842"
+          ],
+          "AttributesOrder": [
+            "AVAILABILITY",
+            "BV_FE_EXPAND",
+            "BV_FE_FAMILY",
+            "GTIN14"
+          ],
+          "Attributes": {
+            "AVAILABILITY": {
+              "Id": "AVAILABILITY",
+              "Values": [
+                {
+                  "Value": "True",
+                  "Locale": null
+                }
+              ]
+            },
+            "BV_FE_EXPAND": {
+              "Id": "BV_FE_EXPAND",
+              "Values": [
+                {
+                  "Value": "BV_FE_FAMILY:SM-S948B_DS",
+                  "Locale": null
+                }
+              ]
+            },
+            "BV_FE_FAMILY": {
+              "Id": "BV_FE_FAMILY",
+              "Values": [
+                {
+                  "Value": "SM-S948B_DS",
+                  "Locale": null
+                }
+              ]
+            },
+            "GTIN14": {
+              "Id": "GTIN14",
+              "Values": [
+                {
+                  "Value": "08806097821250",
+                  "Locale": null
+                },
+                {
+                  "Value": "08806097827146",
+                  "Locale": null
+                },
+                {
+                  "Value": "08806097826958",
+                  "Locale": null
+                },
+                {
+                  "Value": "08806097827283",
+                  "Locale": null
+                },
+                {
+                  "Value": "08806097827047",
+                  "Locale": null
+                },
+                {
+                  "Value": "08806097826736",
+                  "Locale": null
+                },
+                {
+                  "Value": "08806097826996",
+                  "Locale": null
+                },
+                {
+                  "Value": "08806097827191",
+                  "Locale": null
+                },
+                {
+                  "Value": "08806097826897",
+                  "Locale": null
+                },
+                {
+                  "Value": "08806097826798",
+                  "Locale": null
+                },
+                {
+                  "Value": "08806097827092",
+                  "Locale": null
+                },
+                {
+                  "Value": "08806097826842",
+                  "Locale": null
+                }
+              ]
+            }
+          },
+          "Name": "Galaxy S26 Ultra",
+          "ImageUrl": "https://images.samsung.com/is/image/samsung/p6pim/fr/s2602/gallery/fr-galaxy-s26-ultra-s948-sm-s948bzvgeub-550858517",
+          "Id": "SM-S948BZVGEUB",
+          "CategoryId": "01010100",
+          "BrandExternalId": "samsung",
+          "Brand": {
+            "Id": "samsung",
+            "Name": "SAMSUNG"
+          },
+          "Active": true,
+          "ProductPageUrl": "https://www.samsung.com/fr/smartphones/galaxy-s26-ultra/buy/",
+          "Disabled": false,
+          "Description": null,
+          "ReviewIds": [],
+          "ManufacturerPartNumbers": [],
+          "ModelNumbers": [],
+          "StoryIds": [],
+          "ISBNs": [],
+          "QuestionIds": [],
+          "UPCs": [],
+          "ReviewStatistics": {
+            "TotalPhotoCount": 849,
+            "NotHelpfulVoteCount": 82,
+            "NotRecommendedCount": 470,
+            "RecommendedCount": 12533,
+            "TotalReviewCount": 17007,
+            "RatingDistribution": [
+              {
+                "RatingValue": 5,
+                "Count": 14425
+              },
+              {
+                "RatingValue": 4,
+                "Count": 1917
+              },
+              {
+                "RatingValue": 3,
+                "Count": 408
+              },
+              {
+                "RatingValue": 2,
+                "Count": 132
+              },
+              {
+                "RatingValue": 1,
+                "Count": 125
+              }
+            ],
+            "AverageOverallRating": 4.786617275239607,
+            "FirstSubmissionTime": "2026-02-10T12:22:56.000+00:00",
+            "LastSubmissionTime": "2026-05-25T12:01:29.000+00:00",
+            "TotalVideoCount": 423,
+            "FeaturedReviewCount": 2,
+            "RatingsOnlyReviewCount": 747,
+            "SecondaryRatingsAveragesOrder": [
+              "Qualite",
+              "Design_2",
+              "PriseEnMain",
+              "FonctionnalitesAi",
+              "EaseOfSwitchingToSamsung"
+            ],
+            "SecondaryRatingsAverages": {
+              "EaseOfSwitchingToSamsung": {
+                "Id": "EaseOfSwitchingToSamsung",
+                "AverageRating": 4.814100185528757,
+                "DisplayType": "NORMAL",
+                "MaxLabel": null,
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "Design_2": {
+                "Id": "Design_2",
+                "AverageRating": 4.81500938086304,
+                "DisplayType": "NORMAL",
+                "MaxLabel": null,
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "PriseEnMain": {
+                "Id": "PriseEnMain",
+                "AverageRating": 4.830393996247655,
+                "DisplayType": "NORMAL",
+                "MaxLabel": null,
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "FonctionnalitesAi": {
+                "Id": "FonctionnalitesAi",
+                "AverageRating": 4.716322701688555,
+                "DisplayType": "NORMAL",
+                "MaxLabel": null,
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "Qualite": {
+                "Id": "Qualite",
+                "AverageRating": 4.884803001876173,
+                "DisplayType": "NORMAL",
+                "MaxLabel": null,
+                "MinLabel": null,
+                "ValueRange": 5
+              }
+            },
+            "ContextDataDistributionOrder": [
+              "Age",
+              "LengthOfOwnership",
+              "IncentivizedReview",
+              "WhereDidYouPurchase",
+              "InstoreTester"
+            ],
+            "ContextDataDistribution": {
+              "Age": {
+                "Id": "Age",
+                "Values": [
+                  {
+                    "Count": 12,
+                    "Value": "17orUnder"
+                  },
+                  {
+                    "Count": 434,
+                    "Value": "18to24"
+                  },
+                  {
+                    "Count": 1292,
+                    "Value": "25to34"
+                  },
+                  {
+                    "Count": 1600,
+                    "Value": "35to44"
+                  },
+                  {
+                    "Count": 1201,
+                    "Value": "45to54"
+                  },
+                  {
+                    "Count": 968,
+                    "Value": "55to64"
+                  },
+                  {
+                    "Count": 441,
+                    "Value": "65orOver"
+                  }
+                ]
+              },
+              "LengthOfOwnership": {
+                "Id": "LengthOfOwnership",
+                "Values": [
+                  {
+                    "Count": 1529,
+                    "Value": "AuMoins3Semaines"
+                  },
+                  {
+                    "Count": 1014,
+                    "Value": "Entre1Et2Mois"
+                  },
+                  {
+                    "Count": 120,
+                    "Value": "PlusDe2Mois"
+                  }
+                ]
+              },
+              "IncentivizedReview": {
+                "Id": "IncentivizedReview",
+                "Values": [
+                  {
+                    "Count": 8796,
+                    "Value": "True"
+                  },
+                  {
+                    "Count": 1318,
+                    "Value": "False"
+                  }
+                ]
+              },
+              "WhereDidYouPurchase": {
+                "Id": "WhereDidYouPurchase",
+                "Values": [
+                  {
+                    "Count": 2326,
+                    "Value": "online"
+                  },
+                  {
+                    "Count": 258,
+                    "Value": "instore"
+                  },
+                  {
+                    "Count": 225,
+                    "Value": "retailer"
+                  }
+                ]
+              },
+              "InstoreTester": {
+                "Id": "InstoreTester",
+                "Values": [
+                  {
+                    "Count": 524,
+                    "Value": "Yes"
+                  }
+                ]
+              }
+            },
+            "HelpfulVoteCount": 182,
+            "TotalMediaCount": 1272,
+            "TagDistributionOrder": [],
+            "TagDistribution": {},
+            "OverallRatingRange": 5
+          },
+          "TotalReviewCount": 17007,
+          "FilteredReviewStatistics": {
+            "TotalPhotoCount": 849,
+            "NotHelpfulVoteCount": 82,
+            "NotRecommendedCount": 461,
+            "RecommendedCount": 12028,
+            "TotalReviewCount": 16260,
+            "RatingDistribution": [
+              {
+                "RatingValue": 5,
+                "Count": 13759
+              },
+              {
+                "RatingValue": 4,
+                "Count": 1852
+              },
+              {
+                "RatingValue": 3,
+                "Count": 397
+              },
+              {
+                "RatingValue": 2,
+                "Count": 128
+              },
+              {
+                "RatingValue": 1,
+                "Count": 124
+              }
+            ],
+            "AverageOverallRating": 4.783148831488315,
+            "FirstSubmissionTime": "2026-02-10T12:22:56.000+00:00",
+            "LastSubmissionTime": "2026-05-25T12:01:29.000+00:00",
+            "TotalVideoCount": 423,
+            "FeaturedReviewCount": 2,
+            "RatingsOnlyReviewCount": 0,
+            "SecondaryRatingsAveragesOrder": [
+              "Qualite",
+              "Design_2",
+              "PriseEnMain",
+              "FonctionnalitesAi",
+              "EaseOfSwitchingToSamsung"
+            ],
+            "SecondaryRatingsAverages": {
+              "EaseOfSwitchingToSamsung": {
+                "Id": "EaseOfSwitchingToSamsung",
+                "AverageRating": 4.805039239983478,
+                "DisplayType": "NORMAL",
+                "MaxLabel": null,
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "Design_2": {
+                "Id": "Design_2",
+                "AverageRating": 4.80176440062273,
+                "DisplayType": "NORMAL",
+                "MaxLabel": null,
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "PriseEnMain": {
+                "Id": "PriseEnMain",
+                "AverageRating": 4.823559937727037,
+                "DisplayType": "NORMAL",
+                "MaxLabel": null,
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "FonctionnalitesAi": {
+                "Id": "FonctionnalitesAi",
+                "AverageRating": 4.705760249091853,
+                "DisplayType": "NORMAL",
+                "MaxLabel": null,
+                "MinLabel": null,
+                "ValueRange": 5
+              },
+              "Qualite": {
+                "Id": "Qualite",
+                "AverageRating": 4.875454073689673,
+                "DisplayType": "NORMAL",
+                "MaxLabel": null,
+                "MinLabel": null,
+                "ValueRange": 5
+              }
+            },
+            "ContextDataDistributionOrder": [
+              "Age",
+              "LengthOfOwnership",
+              "IncentivizedReview",
+              "WhereDidYouPurchase",
+              "InstoreTester"
+            ],
+            "ContextDataDistribution": {
+              "Age": {
+                "Id": "Age",
+                "Values": [
+                  {
+                    "Count": 12,
+                    "Value": "17orUnder"
+                  },
+                  {
+                    "Count": 397,
+                    "Value": "18to24"
+                  },
+                  {
+                    "Count": 1146,
+                    "Value": "25to34"
+                  },
+                  {
+                    "Count": 1457,
+                    "Value": "35to44"
+                  },
+                  {
+                    "Count": 1098,
+                    "Value": "45to54"
+                  },
+                  {
+                    "Count": 908,
+                    "Value": "55to64"
+                  },
+                  {
+                    "Count": 420,
+                    "Value": "65orOver"
+                  }
+                ]
+              },
+              "LengthOfOwnership": {
+                "Id": "LengthOfOwnership",
+                "Values": [
+                  {
+                    "Count": 1096,
+                    "Value": "AuMoins3Semaines"
+                  },
+                  {
+                    "Count": 751,
+                    "Value": "Entre1Et2Mois"
+                  },
+                  {
+                    "Count": 79,
+                    "Value": "PlusDe2Mois"
+                  }
+                ]
+              },
+              "IncentivizedReview": {
+                "Id": "IncentivizedReview",
+                "Values": [
+                  {
+                    "Count": 8383,
+                    "Value": "True"
+                  },
+                  {
+                    "Count": 989,
+                    "Value": "False"
+                  }
+                ]
+              },
+              "WhereDidYouPurchase": {
+                "Id": "WhereDidYouPurchase",
+                "Values": [
+                  {
+                    "Count": 1730,
+                    "Value": "online"
+                  },
+                  {
+                    "Count": 182,
+                    "Value": "instore"
+                  },
+                  {
+                    "Count": 161,
+                    "Value": "retailer"
+                  }
+                ]
+              },
+              "InstoreTester": {
+                "Id": "InstoreTester",
+                "Values": [
+                  {
+                    "Count": 523,
+                    "Value": "Yes"
+                  }
+                ]
+              }
+            },
+            "HelpfulVoteCount": 181,
+            "TotalMediaCount": 1272,
+            "TagDistributionOrder": [],
+            "TagDistribution": {},
+            "OverallRatingRange": 5
+          }
+        }
+      },
+      "Authors": {
+        "zhbq4rd7ilb9gxfuz8if8nvxuj": {
+          "Id": "zhbq4rd7ilb9gxfuz8if8nvxuj",
+          "ContributorRank": "NONE",
+          "UserNickname": "Strongersoul",
+          "LastModeratedTime": "2026-05-25T12:17:36.000+00:00",
+          "ModerationStatus": "APPROVED",
+          "SubmissionTime": "2026-05-25T11:59:50.000+00:00",
+          "ThirdPartyIds": [],
+          "Videos": [],
+          "ProductRecommendationIds": [],
+          "SecondaryRatings": {},
+          "BadgesOrder": [],
+          "Avatar": {},
+          "AdditionalFieldsOrder": [],
+          "CommentIds": [],
+          "ContextDataValuesOrder": [],
+          "Location": null,
+          "SecondaryRatingsOrder": [],
+          "StoryIds": [],
+          "AdditionalFields": {},
+          "Badges": {},
+          "QuestionIds": [],
+          "Photos": [],
+          "SubmissionId": null,
+          "ReviewIds": [],
+          "AnswerIds": [],
+          "ContextDataValues": {},
+          "ReviewStatistics": {
+            "FeaturedReviewCount": 0,
+            "NotRecommendedCount": 0,
+            "RatingsOnlyReviewCount": 0,
+            "RecommendedCount": 0,
+            "TotalReviewCount": 1,
+            "ContextDataDistribution": {},
+            "ContextDataDistributionOrder": [],
+            "TotalMediaCount": 0,
+            "FirstSubmissionTime": null,
+            "TotalPhotoCount": 0,
+            "SecondaryRatingsAveragesOrder": [],
+            "RatingDistribution": [],
+            "NotHelpfulVoteCount": 0,
+            "SecondaryRatingsAverages": {},
+            "TagDistributionOrder": [],
+            "LastSubmissionTime": null,
+            "TotalVideoCount": 0,
+            "TagDistribution": {},
+            "AverageOverallRating": null,
+            "HelpfulVoteCount": 0,
+            "OverallRatingRange": 5
+          },
+          "TotalReviewCount": 1,
+          "FilteredReviewStatistics": {
+            "FeaturedReviewCount": 0,
+            "NotRecommendedCount": 0,
+            "RatingsOnlyReviewCount": 0,
+            "RecommendedCount": 0,
+            "TotalReviewCount": 1,
+            "ContextDataDistribution": {},
+            "ContextDataDistributionOrder": [],
+            "TotalMediaCount": 0,
+            "FirstSubmissionTime": null,
+            "TotalPhotoCount": 0,
+            "SecondaryRatingsAveragesOrder": [],
+            "RatingDistribution": [],
+            "NotHelpfulVoteCount": 0,
+            "SecondaryRatingsAverages": {},
+            "TagDistributionOrder": [],
+            "LastSubmissionTime": null,
+            "TotalVideoCount": 0,
+            "TagDistribution": {},
+            "AverageOverallRating": null,
+            "HelpfulVoteCount": 0,
+            "OverallRatingRange": 5
+          }
+        },
+        "ziiwsphti16ewzn0lajs7zk5nq": {
+          "Id": "ziiwsphti16ewzn0lajs7zk5nq",
+          "ContributorRank": "NONE",
+          "UserNickname": "Walter L",
+          "LastModeratedTime": "2026-05-25T12:15:08.000+00:00",
+          "ModerationStatus": "APPROVED",
+          "SubmissionTime": "2026-05-25T11:48:45.000+00:00",
+          "ThirdPartyIds": [],
+          "Videos": [],
+          "ProductRecommendationIds": [],
+          "SecondaryRatings": {},
+          "BadgesOrder": [],
+          "Avatar": {},
+          "AdditionalFieldsOrder": [],
+          "CommentIds": [],
+          "ContextDataValuesOrder": [],
+          "Location": null,
+          "SecondaryRatingsOrder": [],
+          "StoryIds": [],
+          "AdditionalFields": {},
+          "Badges": {},
+          "QuestionIds": [],
+          "Photos": [],
+          "SubmissionId": null,
+          "ReviewIds": [],
+          "AnswerIds": [],
+          "ContextDataValues": {},
+          "ReviewStatistics": {
+            "FeaturedReviewCount": 0,
+            "RecommendedCount": 0,
+            "RatingsOnlyReviewCount": 0,
+            "NotRecommendedCount": 0,
+            "TotalReviewCount": 1,
+            "ContextDataDistribution": {},
+            "ContextDataDistributionOrder": [],
+            "TotalMediaCount": 0,
+            "FirstSubmissionTime": null,
+            "TotalPhotoCount": 0,
+            "SecondaryRatingsAveragesOrder": [],
+            "RatingDistribution": [],
+            "NotHelpfulVoteCount": 0,
+            "SecondaryRatingsAverages": {},
+            "TagDistributionOrder": [],
+            "LastSubmissionTime": null,
+            "TotalVideoCount": 0,
+            "TagDistribution": {},
+            "AverageOverallRating": null,
+            "HelpfulVoteCount": 0,
+            "OverallRatingRange": 5
+          },
+          "TotalReviewCount": 1,
+          "FilteredReviewStatistics": {
+            "FeaturedReviewCount": 0,
+            "RecommendedCount": 0,
+            "RatingsOnlyReviewCount": 0,
+            "NotRecommendedCount": 0,
+            "TotalReviewCount": 1,
+            "ContextDataDistribution": {},
+            "ContextDataDistributionOrder": [],
+            "TotalMediaCount": 0,
+            "FirstSubmissionTime": null,
+            "TotalPhotoCount": 0,
+            "SecondaryRatingsAveragesOrder": [],
+            "RatingDistribution": [],
+            "NotHelpfulVoteCount": 0,
+            "SecondaryRatingsAverages": {},
+            "TagDistributionOrder": [],
+            "LastSubmissionTime": null,
+            "TotalVideoCount": 0,
+            "TagDistribution": {},
+            "AverageOverallRating": null,
+            "HelpfulVoteCount": 0,
+            "OverallRatingRange": 5
+          }
+        },
+        "z6j0g36xocgbk1zbkacptcnhtp": {
+          "Id": "z6j0g36xocgbk1zbkacptcnhtp",
+          "ContributorRank": "NONE",
+          "UserNickname": "Ele70",
+          "LastModeratedTime": "2026-05-25T12:17:36.000+00:00",
+          "ModerationStatus": "APPROVED",
+          "SubmissionTime": "2026-05-25T11:46:43.000+00:00",
+          "ThirdPartyIds": [],
+          "Videos": [],
+          "ProductRecommendationIds": [],
+          "SecondaryRatings": {},
+          "BadgesOrder": [],
+          "Avatar": {},
+          "AdditionalFieldsOrder": [],
+          "CommentIds": [],
+          "ContextDataValuesOrder": [],
+          "Location": null,
+          "SecondaryRatingsOrder": [],
+          "StoryIds": [],
+          "AdditionalFields": {},
+          "Badges": {},
+          "QuestionIds": [],
+          "Photos": [],
+          "SubmissionId": null,
+          "ReviewIds": [],
+          "AnswerIds": [],
+          "ContextDataValues": {},
+          "ReviewStatistics": {
+            "NotRecommendedCount": 0,
+            "RecommendedCount": 0,
+            "TotalReviewCount": 1,
+            "RatingsOnlyReviewCount": 0,
+            "FeaturedReviewCount": 0,
+            "ContextDataDistribution": {},
+            "ContextDataDistributionOrder": [],
+            "TotalMediaCount": 0,
+            "FirstSubmissionTime": null,
+            "TotalPhotoCount": 0,
+            "SecondaryRatingsAveragesOrder": [],
+            "RatingDistribution": [],
+            "NotHelpfulVoteCount": 0,
+            "SecondaryRatingsAverages": {},
+            "TagDistributionOrder": [],
+            "LastSubmissionTime": null,
+            "TotalVideoCount": 0,
+            "TagDistribution": {},
+            "AverageOverallRating": null,
+            "HelpfulVoteCount": 0,
+            "OverallRatingRange": 5
+          },
+          "TotalReviewCount": 1,
+          "FilteredReviewStatistics": {
+            "NotRecommendedCount": 0,
+            "RecommendedCount": 0,
+            "TotalReviewCount": 1,
+            "RatingsOnlyReviewCount": 0,
+            "FeaturedReviewCount": 0,
+            "ContextDataDistribution": {},
+            "ContextDataDistributionOrder": [],
+            "TotalMediaCount": 0,
+            "FirstSubmissionTime": null,
+            "TotalPhotoCount": 0,
+            "SecondaryRatingsAveragesOrder": [],
+            "RatingDistribution": [],
+            "NotHelpfulVoteCount": 0,
+            "SecondaryRatingsAverages": {},
+            "TagDistributionOrder": [],
+            "LastSubmissionTime": null,
+            "TotalVideoCount": 0,
+            "TagDistribution": {},
+            "AverageOverallRating": null,
+            "HelpfulVoteCount": 0,
+            "OverallRatingRange": 5
+          }
+        },
+        "ze9i9p7ipiy6aq6hsjxf9kyend": {
+          "Id": "ze9i9p7ipiy6aq6hsjxf9kyend",
+          "ContributorRank": "NONE",
+          "UserNickname": "Nic63",
+          "LastModeratedTime": "2026-05-25T12:02:59.000+00:00",
+          "ModerationStatus": "APPROVED",
+          "SubmissionTime": "2026-05-25T11:33:08.000+00:00",
+          "ThirdPartyIds": [],
+          "Videos": [],
+          "ProductRecommendationIds": [],
+          "SecondaryRatings": {},
+          "BadgesOrder": [],
+          "Avatar": {},
+          "AdditionalFieldsOrder": [],
+          "CommentIds": [],
+          "ContextDataValuesOrder": [],
+          "Location": null,
+          "SecondaryRatingsOrder": [],
+          "StoryIds": [],
+          "AdditionalFields": {},
+          "Badges": {},
+          "QuestionIds": [],
+          "Photos": [],
+          "SubmissionId": null,
+          "ReviewIds": [],
+          "AnswerIds": [],
+          "ContextDataValues": {},
+          "ReviewStatistics": {
+            "RatingsOnlyReviewCount": 0,
+            "RecommendedCount": 0,
+            "TotalReviewCount": 1,
+            "FeaturedReviewCount": 0,
+            "NotRecommendedCount": 0,
+            "ContextDataDistribution": {},
+            "ContextDataDistributionOrder": [],
+            "TotalMediaCount": 0,
+            "FirstSubmissionTime": null,
+            "TotalPhotoCount": 0,
+            "SecondaryRatingsAveragesOrder": [],
+            "RatingDistribution": [],
+            "NotHelpfulVoteCount": 0,
+            "SecondaryRatingsAverages": {},
+            "TagDistributionOrder": [],
+            "LastSubmissionTime": null,
+            "TotalVideoCount": 0,
+            "TagDistribution": {},
+            "AverageOverallRating": null,
+            "HelpfulVoteCount": 0,
+            "OverallRatingRange": 5
+          },
+          "TotalReviewCount": 1,
+          "FilteredReviewStatistics": {
+            "RatingsOnlyReviewCount": 0,
+            "RecommendedCount": 0,
+            "TotalReviewCount": 1,
+            "FeaturedReviewCount": 0,
+            "NotRecommendedCount": 0,
+            "ContextDataDistribution": {},
+            "ContextDataDistributionOrder": [],
+            "TotalMediaCount": 0,
+            "FirstSubmissionTime": null,
+            "TotalPhotoCount": 0,
+            "SecondaryRatingsAveragesOrder": [],
+            "RatingDistribution": [],
+            "NotHelpfulVoteCount": 0,
+            "SecondaryRatingsAverages": {},
+            "TagDistributionOrder": [],
+            "LastSubmissionTime": null,
+            "TotalVideoCount": 0,
+            "TagDistribution": {},
+            "AverageOverallRating": null,
+            "HelpfulVoteCount": 0,
+            "OverallRatingRange": 5
+          }
+        },
+        "55cbcb7ae2dbf98df0e4d2d4d205412da67689c1641b87611387442ee1ed638f": {
+          "Id": "55cbcb7ae2dbf98df0e4d2d4d205412da67689c1641b87611387442ee1ed638f",
+          "ContributorRank": "NONE",
+          "UserNickname": "Gülay Nazli",
+          "LastModeratedTime": "2026-05-25T12:00:10.000+00:00",
+          "ModerationStatus": "APPROVED",
+          "SubmissionTime": "2026-05-25T11:26:36.000+00:00",
+          "ThirdPartyIds": [],
+          "Videos": [],
+          "ProductRecommendationIds": [],
+          "SecondaryRatings": {},
+          "BadgesOrder": [],
+          "Avatar": {},
+          "AdditionalFieldsOrder": [],
+          "CommentIds": [],
+          "ContextDataValuesOrder": [],
+          "Location": null,
+          "SecondaryRatingsOrder": [],
+          "StoryIds": [],
+          "AdditionalFields": {},
+          "Badges": {},
+          "QuestionIds": [],
+          "Photos": [],
+          "SubmissionId": null,
+          "ReviewIds": [],
+          "AnswerIds": [],
+          "ContextDataValues": {},
+          "ReviewStatistics": {
+            "RecommendedCount": 0,
+            "TotalReviewCount": 1,
+            "FeaturedReviewCount": 0,
+            "NotRecommendedCount": 0,
+            "RatingsOnlyReviewCount": 0,
+            "ContextDataDistribution": {},
+            "ContextDataDistributionOrder": [],
+            "TotalMediaCount": 0,
+            "FirstSubmissionTime": null,
+            "TotalPhotoCount": 0,
+            "SecondaryRatingsAveragesOrder": [],
+            "RatingDistribution": [],
+            "NotHelpfulVoteCount": 0,
+            "SecondaryRatingsAverages": {},
+            "TagDistributionOrder": [],
+            "LastSubmissionTime": null,
+            "TotalVideoCount": 0,
+            "TagDistribution": {},
+            "AverageOverallRating": null,
+            "HelpfulVoteCount": 0,
+            "OverallRatingRange": 5
+          },
+          "TotalReviewCount": 1,
+          "FilteredReviewStatistics": {
+            "RecommendedCount": 0,
+            "TotalReviewCount": 1,
+            "FeaturedReviewCount": 0,
+            "NotRecommendedCount": 0,
+            "RatingsOnlyReviewCount": 0,
+            "ContextDataDistribution": {},
+            "ContextDataDistributionOrder": [],
+            "TotalMediaCount": 0,
+            "FirstSubmissionTime": null,
+            "TotalPhotoCount": 0,
+            "SecondaryRatingsAveragesOrder": [],
+            "RatingDistribution": [],
+            "NotHelpfulVoteCount": 0,
+            "SecondaryRatingsAverages": {},
+            "TagDistributionOrder": [],
+            "LastSubmissionTime": null,
+            "TotalVideoCount": 0,
+            "TagDistribution": {},
+            "AverageOverallRating": null,
+            "HelpfulVoteCount": 0,
+            "OverallRatingRange": 5
+          }
+        }
+      },
+      "ProductsOrder": [
+        "SM-S948BZVGEUB"
+      ],
+      "AuthorsOrder": [
+        "zhbq4rd7ilb9gxfuz8if8nvxuj",
+        "ziiwsphti16ewzn0lajs7zk5nq",
+        "z6j0g36xocgbk1zbkacptcnhtp",
+        "ze9i9p7ipiy6aq6hsjxf9kyend",
+        "55cbcb7ae2dbf98df0e4d2d4d205412da67689c1641b87611387442ee1ed638f"
+      ]
+    },
+    "HasErrors": false,
+    "Errors": []
+  }
+}

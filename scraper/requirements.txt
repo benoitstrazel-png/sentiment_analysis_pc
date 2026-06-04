@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+pandas
+transformers
+torch
+flask
+flask-cors
