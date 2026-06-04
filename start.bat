@@ -1,4 +1,7 @@
 @echo off
+:: Force the console to use UTF-8 encoding to render accents and emojis correctly
+chcp 65001 >nul
+
 echo ==========================================================
 echo ⚡ DÉMARRAGE DE SENTILYTICS (SAMSUNG SENTIMENT ANALYSIS) ⚡
 echo ==========================================================
