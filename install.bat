@@ -7,8 +7,8 @@ echo.
 :: Check if Python is installed
 python --version >nul 2>&1
 if %errorlevel% neq 0 (
-    echo [!] Erreur : Python n'est pas installé sur ce système ou n'est pas dans le PATH.
-    echo Veuillez installer Python (version 3.9+) depuis python.org avant de continuer.
+    echo [!] Erreur : Python n'est pas installe sur ce systeme ou n'est pas dans le PATH.
+    echo Veuillez installer Python version 3.9 ou superieure depuis python.org avant de continuer.
     pause
     exit /b 1
 )
